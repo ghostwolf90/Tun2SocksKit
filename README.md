@@ -7,7 +7,7 @@ import Tun2SocksKit
 Socks5Tunnel.run(withFileDescriptor: 4, configFilePath: localConfigFileURL.path(percentEncoded: false))
 ```
 
-### 配置文件（详见[hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel)）
+### 配置文件（詳見[hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel)）
 ```yml
 tunnel:
   mtu: 9000
