@@ -4,6 +4,8 @@
 #include <stdint.h>
 
 // 新增 手動定義這些類型
+typedef uint8_t  u_int8_t;
+typedef uint16_t u_int16_t;
 typedef uint32_t u_int32_t;
 typedef uint16_t u_int16_t;
 typedef unsigned char u_char;
